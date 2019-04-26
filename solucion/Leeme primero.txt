@@ -1,0 +1,6 @@
+
+Antes de arrancar asegurese de que el proyecto original este corriendo
+Este proyecto esta basado en el proyecto original, el proyecto consume el servico desde :
+	package com.previred.periodos.servicio;
+	Clase PeriodosService ==> getPeriodos 	String url = "http://localhost:8080/periodos/api";
+Atte Ricardo Leal Guarda
